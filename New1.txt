@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 Demo
 
 <<<<<<< HEAD
 Test
 =======
 Text
+>>>>>>> Develop
+=======
+Text 1
 >>>>>>> Develop
